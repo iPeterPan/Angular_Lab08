@@ -16,7 +16,7 @@ You can Download a ebook in above web page.
 This code is Fixed version.
 But Give up to fix codes.
 
-content of book is very cool.(codes are until lab 05)
+The content of book is very cool.(codes are until lab 05)
 
 but i can't follow the code becase so difficult to fix code.
 
