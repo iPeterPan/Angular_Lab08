@@ -13,7 +13,7 @@ https://www.codeproject.com/Articles/1207118/Learn-Angular-Tutorial
 
 You can Download a ebook in above web page.
 
-Fixed code version.
+This code is Fixed version.
 But Give up to fix codes.
 
 content of book is very cool.(codes are until lab 05)
